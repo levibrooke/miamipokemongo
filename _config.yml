@@ -9,8 +9,10 @@
 title: Miami Pokemon Go
 email: info@miamipokemongo.com
 description: Domain available
+url: http://miamipokemongo.com
 
-url: http://miamipokemongo.com # the base hostname & protocol for your site
+# Meta variable for Google Webmaster tools
+google-verification: UB6Vw2cAnk0yj5PftDy5c5lsbiSZAGrgKwSmhlvC9kw
 
 exclude:
     - LICENSE
